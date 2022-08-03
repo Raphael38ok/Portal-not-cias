@@ -1,2 +1,2 @@
-# Portal-not-cias
+# Portal-noticias
 tema jornalístico
